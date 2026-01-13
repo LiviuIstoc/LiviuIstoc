@@ -4,7 +4,7 @@
 
 ## Technical Skills
 
-![Django](https://img.shields.io/badge/Django-Python%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python | Django](https://img.shields.io/badge/Python%20%7C%20Django-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
