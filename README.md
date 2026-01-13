@@ -1,4 +1,4 @@
-**Software Developer** with main experience in **Python** and **.NET C#**, passionate about **Artificial Intelligence**, **Data Analysis**, and **software development** in general.  
+**Software Developer** with primary experience in **Python** and .NET **C#**, passionate about Artificial Intelligence, Data Analysis, and building reliable software solutions. Also an experienced scripts programmer specializing in financial automation and trading algorithms, proficient in **MQL4**, **MQL5**, and **Python**, leveraging these skills to enhance system robustness and reliability. Skilled in backtesting, data analysis, and integrating deep learning models for accurate forecasting and performance optimization.
 
 ---
 
@@ -20,11 +20,25 @@
 
 ---
 
-## Freelance Profile
+<section style="background-color:#f9f9f9; padding:20px; border-radius:10px; max-width:400px; font-family:Arial, sans-serif;">
+  <h2 style="color:#333; text-align:center;">💼 Freelance Profile</h2>
+  
+  <div style="display:flex; justify-content:center; margin-bottom:15px;">
+    <a href="https://www.upwork.com/freelancers/~015bdb664479a380f3" target="_blank">
+      <img src="https://img.shields.io/badge/Success%20Score-95%25-00BFFF?style=for-the-badge" alt="Success Score">
+    </a>
+  </div>
+  
+  <ul style="list-style:none; padding:0; color:#555; font-size:16px;">
+    <li><strong>Projects Completed:</strong> 45</li>
+    <li><strong>Rating:</strong> 4.9 ⭐</li>
+    <li><strong>Reviews:</strong> 36</li>
+  </ul>
+  
+  <p style="text-align:center; margin-top:15px; color:#777; font-size:14px;">
+    Proven track record delivering high-quality projects on Upwork
+  </p>
+</section>
 
-[![Success Score 95%](https://img.shields.io/badge/Success%20Score-95%25-00BFFF?style=for-the-badge)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
-**Projects Completed:** 45  
-**Rating:** 4.9  
-**Reviews:** 36
 
 ---
