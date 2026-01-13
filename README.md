@@ -3,11 +3,7 @@
 Programmatore software con particolare esperienza in Python e .NET C#.
 
 ## Competenze
-- Python  
-- C# (.NET)  
-- C++
-- MQL4 / MQL5
-- Java (Spring)
+`Python` `C# (.NET)` `C++` `Java (Spring)` `MQL4/MQL5`
 
 ## Certificazioni
 - IBM AI Engineering (Coursera)  
