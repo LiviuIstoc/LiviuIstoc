@@ -12,12 +12,15 @@
 
 ---
 
-## Certifications
+## Certifications & Freelance Profile
 
 [![Meta Back-End Developer](https://img.shields.io/badge/Meta-Back--End%20Developer-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://coursera.org/share/768baf20c1ba6fe553a107710db5f028)
 
 [![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-University%20of%20Alberta-FF6F00?style=for-the-badge)](https://coursera.org/share/77e9f4cda0058a783748b0b07a6d4628)
 
 [![IBM AI Engineering](https://img.shields.io/badge/IBM-AI%20Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/share/7f6467322f9680b71418f3f0baff0b69)
+
+[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
+![Upwork Success Rate](https://img.shields.io/badge/Success%20Rate-95%25-00BFFF?style=for-the-badge)
 
 ---
