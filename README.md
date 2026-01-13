@@ -1,16 +1,20 @@
-## Hi there 👋
+# Liviu Istoc
 
-<!--
-**LiviuIstoc/LiviuIstoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programmatore software con particolare esperienza in Python e .NET C#.
 
-Here are some ideas to get you started:
+## Competenze
+- Python  
+- C# (.NET)  
+- C++
+- MQL4 / MQL5
+- Java (Spring)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificazioni
+- IBM AI Engineering (Coursera)  
+- Django Web Development (Coursera)  
+- Reinforcement Learning – University of Alberta (Coursera)
+
+## Interessi
+- Programmazione  
+- Intelligenza Artificiale  
+- Data Analysis
