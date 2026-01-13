@@ -20,26 +20,6 @@
 
 ---
 
-<table>
-  <tr>
-    <!-- Cerchio con percentuale -->
-    <td style="padding-right:15px; text-align:center;">
-      <img src="https://img.shields.io/badge/Success-95%25-00BFFF?style=for-the-badge&logo=upwork" alt="Success Score">
-    </td>
-
-    <!-- Dati a destra -->
-    <td>
-      <h3>💼 Freelance Profile</h3>
-      <ul>
-        <li><strong>Projects Completed:</strong> 45</li>
-        <li><strong>Rating:</strong> 4.9 ⭐</li>
-        <li><strong>Reviews:</strong> 36</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-
+[![Upwork Profile](./upwork.jpeg)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
 
 ---
