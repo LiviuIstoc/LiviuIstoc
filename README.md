@@ -17,6 +17,6 @@
 [![IBM AI Engineering](https://img.shields.io/badge/IBM-AI%20Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/share/7f6467322f9680b71418f3f0baff0b69)
 
 
-### 💼 Freelance Profile
-[![Upwork Profile](./upwork.jpeg)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
+### Freelance Profile
+[![Upwork Profile](./upwork.png)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
 
