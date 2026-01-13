@@ -18,8 +18,5 @@
 
 
 ### 💼 Freelance Profile
-<a href="https://www.upwork.com/freelancers/~015bdb664479a380f3" target="_blank">
-  <img src="./upwork.png" alt="Upwork Profile" style="width:60%;">
-</a>
-
+[![Upwork Profile](./upwork.jpeg)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
 
