@@ -20,6 +20,6 @@
 
 ---
 
-[![Upwork Profile](./upwork.jpeg)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
+[![Upwork Profile](./upwork.jpg)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
 
 ---
