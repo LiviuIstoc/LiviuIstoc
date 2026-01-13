@@ -1,5 +1,4 @@
-**Software Developer** with strong experience in **Python** and **.NET C#**, passionate about **Artificial Intelligence**, **Data Analysis**, and **software development** in general.  
-I enjoy building efficient solutions, exploring new paradigms, and applying AI to real-world problems.
+**Software Developer** with main experience in **Python** and **.NET C#**, passionate about **Artificial Intelligence**, **Data Analysis**, and **software development** in general.  
 
 ---
 
