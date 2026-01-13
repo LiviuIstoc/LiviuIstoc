@@ -22,39 +22,9 @@
 
 ## Freelance Profile
 
-<div style="display:flex; align-items:center; width:90%; border:1px solid #ccc; border-radius:12px; padding:10px; background:#f9f9f9; margin-bottom:20px;">
-
-  <!-- Left: Success Ring -->
-  <div style="flex:0 0 120px; text-align:center; margin-right:20px;">
-    <svg width="100" height="100" viewBox="0 0 36 36">
-      <path
-        d="M18 2.0845
-           a 15.9155 15.9155 0 0 1 0 31.831
-           a 15.9155 15.9155 0 0 1 0 -31.831"
-        fill="none"
-        stroke="#eee"
-        stroke-width="4"
-      />
-      <path
-        d="M18 2.0845
-           a 15.9155 15.9155 0 0 1 0 31.831"
-        fill="none"
-        stroke="#00BFFF"
-        stroke-width="4"
-        stroke-dasharray="95,100"
-      />
-      <text x="18" y="20.35" font-size="5" text-anchor="middle" fill="#333">95%</text>
-    </svg>
-    <div style="font-size:12px; margin-top:4px;">Success Score</div>
-  </div>
-
-  <!-- Right: Stats -->
-  <div style="flex:1; font-size:14px; line-height:1.6;">
-    <div><strong>Projects Completed:</strong> 45</div>
-    <div><strong>Rating:</strong> 4.9</div>
-    <div><strong>Reviews:</strong> 36</div>
-  </div>
-
-</div>
+[![Success Score 95%](https://img.shields.io/badge/Success%20Score-95%25-00BFFF?style=for-the-badge)](https://www.upwork.com/freelancers/~015bdb664479a380f3)
+**Projects Completed:** 45  
+**Rating:** 4.9  
+**Reviews:** 36
 
 ---
