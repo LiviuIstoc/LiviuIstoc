@@ -20,25 +20,50 @@
 
 ---
 
-<section style="background-color:#f9f9f9; padding:20px; border-radius:10px; max-width:400px; font-family:Arial, sans-serif;">
-  <h2 style="color:#333; text-align:center;">💼 Freelance Profile</h2>
-  
-  <div style="display:flex; justify-content:center; margin-bottom:15px;">
-    <a href="https://www.upwork.com/freelancers/~015bdb664479a380f3" target="_blank">
-      <img src="https://img.shields.io/badge/Success%20Score-95%25-00BFFF?style=for-the-badge" alt="Success Score">
-    </a>
+<section style="display:flex; align-items:center; background-color:#f9f9f9; border-radius:12px; padding:20px; max-width:500px; font-family:Arial, sans-serif; box-shadow:0 4px 10px rgba(0,0,0,0.05);">
+
+  <!-- Cerchio a sinistra -->
+  <div style="flex-shrink:0; position:relative; width:80px; height:80px; margin-right:20px;">
+    <svg viewBox="0 0 36 36" style="width:80px; height:80px;">
+      <!-- Sfondo grigio -->
+      <path
+        d="M18 2.0845
+           a 15.9155 15.9155 0 0 1 0 31.831
+           a 15.9155 15.9155 0 0 1 0 -31.831"
+        fill="none"
+        stroke="#eee"
+        stroke-width="3.8"
+      />
+      <!-- Percentuale -->
+      <path
+        d="M18 2.0845
+           a 15.9155 15.9155 0 0 1 0 31.831
+           a 15.9155 15.9155 0 0 1 0 -31.831"
+        fill="none"
+        stroke="#00BFFF"
+        stroke-width="3.8"
+        stroke-dasharray="95,100"
+        stroke-linecap="round"
+      />
+      <text x="18" y="20.35" style="fill:#333; font-size:8px;" text-anchor="middle" alignment-baseline="central">95%</text>
+    </svg>
   </div>
-  
-  <ul style="list-style:none; padding:0; color:#555; font-size:16px;">
-    <li><strong>Projects Completed:</strong> 45</li>
-    <li><strong>Rating:</strong> 4.9 ⭐</li>
-    <li><strong>Reviews:</strong> 36</li>
-  </ul>
-  
-  <p style="text-align:center; margin-top:15px; color:#777; font-size:14px;">
-    Proven track record delivering high-quality projects on Upwork
-  </p>
+
+  <!-- Dati a destra -->
+  <div style="flex-grow:1; color:#555;">
+    <h3 style="margin:0 0 10px 0; color:#333;">💼 Freelance Profile</h3>
+    <ul style="list-style:none; padding:0; margin:0; font-size:15px;">
+      <li><strong>Projects Completed:</strong> 45</li>
+      <li><strong>Rating:</strong> 4.9 ⭐</li>
+      <li><strong>Reviews:</strong> 36</li>
+    </ul>
+    <p style="margin-top:10px; font-size:13px; color:#777;">
+      Proven track record delivering high-quality projects on Upwork
+    </p>
+  </div>
+
 </section>
+
 
 
 ---
